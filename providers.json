@@ -1,32 +1,37 @@
 [
     {
-        "account": "atticlabdapp",
+        "provider": "atticlabdapp",
         "name": "",
         "logo": "https://atticlab.net/atticlab-logo-256.png"
     },
     {
-        "account": "dspswedenorg",
+        "provider": "dspswedenorg",
         "name": "Sw/eden DSP",
         "logo": "https://eossweden.se/wp-content/uploads/2018/06/Square-Leaf-Banner-Wt-bkg-256.png"
     },
     {
-        "account": "dspnewyorkio",
+        "provider": "dspnewyorkio",
         "name": "EOS New York",
         "logo": "https://bp.eosnewyork.io/Logo_256.jpg"
     },
     {
-        "account": "eosnationdsp",
+        "provider": "eosnationdsp",
         "name": "EOS Nation",
         "logo": "https://eosnation.keybase.pub/logo_256.png"
     },
     {
-        "account": "dsptribeprod",
+        "provider": "dsptribeprod",
         "name": "EOSTribe",
         "logo": "https://s3.amazonaws.com/eostribe/eos-tribe-logo-square-256px.png"
     },
     {
-        "account": "eosminergate",
+        "provider": "eosminergate",
         "name": "",
         "logo": "https://minergate.com/static/img/eos/logo-white_256.png"
+    },
+    {
+        "provider": "blockstartac",
+        "name": "Blockstart.1 DSP",
+        "logo": "https://blockstart.one/dsp/favicon.png"
     }
 ]
