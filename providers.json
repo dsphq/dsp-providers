@@ -33,5 +33,10 @@
         "account": "blockstartac",
         "name": "Blockstart.1 DSP",
         "logo": "https://blockstart.one/dsp/favicon.png"
+    },
+    {
+        "account": "eosusadspdsp",
+        "name": "EOSUSA DSP",
+        "logo": "https://bp.eosusa.news/eosusa_256.png"
     }
 ]
