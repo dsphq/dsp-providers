@@ -1,5 +1,10 @@
 [
     {
+        "account": "airdropsdac1",
+        "name": "AirdropsDAC DSP",
+        "logo": "https://airdropsdac.com/wp-content/uploads/2019/03/AirdropsDAC-Trans.-e1551478459559.png"
+    },
+    {
         "account": "atticlabdapp",
         "name": "",
         "logo": "https://atticlab.net/atticlab-logo-256.png"
@@ -25,6 +30,11 @@
         "logo": "https://s3.amazonaws.com/eostribe/eos-tribe-logo-square-256px.png"
     },
     {
+        "account": "eosusadspdsp",
+        "name": "EOSUSA DSP",
+        "logo": "https://bp.eosusa.news/eosusa_256.png"
+    },
+    {
         "account": "eosminergate",
         "name": "",
         "logo": "https://minergate.com/static/img/eos/logo-white_256.png"
@@ -32,11 +42,11 @@
     {
         "account": "blockstartac",
         "name": "Blockstart.1 DSP",
-        "logo": "https://blockstart.one/dsp/favicon.png"
+        "logo": "https://blockstart.one/dsp/square256.jpg"
     },
     {
-        "account": "eosusadspdsp",
-        "name": "EOSUSA DSP",
-        "logo": "https://bp.eosusa.news/eosusa_256.png"
+        "account": "eospherexdsp",
+        "name": "EOSphere DSP",
+        "logo": "https://www.eosphere.io/eospherelogosquare256.png"
     }
 ]
