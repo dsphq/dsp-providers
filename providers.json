@@ -48,5 +48,10 @@
         "account": "eospherexdsp",
         "name": "EOSphere DSP",
         "logo": "https://www.eosphere.io/eospherelogosquare256.png"
+    },
+    {
+        "account": "bloksdspearn",
+        "name": "Bloks DSP",
+        "logo": "https://bloks.io/img/bloks_logomark.png"
     }
 ]
